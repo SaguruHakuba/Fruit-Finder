@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{Morgan2005}
+Dennis~R. Morgan,
+\newblock ``Dos and don'ts of technical writing,''
+\newblock {\em IEEE Potentials}, vol. 24, no. 3, pp. 22--25, Aug. 2005.
+
+\bibitem{cooley65}
+J.~W. Cooley and J.~W. Tukey,
+\newblock ``An algorithm for the machine computation of complex {F}ourier
+  series,''
+\newblock {\em Math. Comp.}, vol. 19, pp. 297--301, Apr. 1965.
+
+\bibitem{haykin02}
+S.~Haykin,
+\newblock ``Adaptive filter theory,''
+\newblock Information and System Science. Prentice Hall, 4th edition, 2002.
+
+\end{thebibliography}
